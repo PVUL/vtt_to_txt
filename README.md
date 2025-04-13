@@ -1,4 +1,4 @@
-# 🎧 vtt-to-txt
+# 🎧 vtt_to_txt
 
 A simple and fast Rust CLI tool to convert `.vtt` subtitle files into clean plain text for downstream use (e.g., training RAG models).
 
