@@ -16,14 +16,14 @@ A simple and fast Rust CLI tool to convert `.vtt` subtitle files into clean plai
 
 ## 🛠 Installation
 
-```bash
-git clone https://github.com/your-username/vtt-to-txt.git
-cd vtt-to-txt
+```
+git clone https://github.com/PVUL/vtt_to_txt.git
+cd vtt_to_txt
 cargo build --release
 ```
 
 🚀 Usage
-```bash
+```
 cargo run -- path/to/myfile.vtt
 ```
 This will create a clean text file.
@@ -37,7 +37,7 @@ cargo run -- path/to/myfile.vtt path/to/cleaned.txt
 📂 Example
 Input: `transcript.vtt`
 
-```vtt
+```
 WEBVTT
 
 00:00:01.000 --> 00:00:03.000
